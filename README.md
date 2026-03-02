@@ -17,7 +17,7 @@
 **Bridging intelligent algorithms with silicon to create autonomous robotic systems that are efficient, reliable, and safe.**
 
 
-## 📫 **Connect With Me**
+## **Connect With Me**
 
 **- LinkedIn:** [www.linkedin.com/in/chirranjeavim](https://www.linkedin.com/in/chirranjeavim)  
 **- Email:** cm6855@nyu.edu  
