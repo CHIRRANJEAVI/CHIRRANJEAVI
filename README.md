@@ -11,17 +11,15 @@
 **- Hardware acceleration for ML algorithms**  
 **- Prototyping FPGA systems for autonomous robots**  
 
----
 
 ## 🌟 **Vision**
 
 **Bridging intelligent algorithms with silicon to create autonomous robotic systems that are efficient, reliable, and safe.**
 
----
 
 ## 📫 **Connect With Me**
 
-**- LinkedIn:** [Your LinkedIn Link]  
+**- LinkedIn:** linkedin.com/in/chirranjeavim  
 **- Email:** [Your Email]  
 **- Portfolio:** [Your Website]  
 
