@@ -4,7 +4,7 @@
 
 
 
-## 🚀 **Current Focus**
+## **Current Focus**
 
 **- Digital VLSI design and RTL development**  
 **- Low-power and high-performance chip architecture**  
@@ -12,7 +12,7 @@
 **- Prototyping FPGA systems for autonomous robots**  
 
 
-## 🌟 **Vision**
+##  **Vision**
 
 **Bridging intelligent algorithms with silicon to create autonomous robotic systems that are efficient, reliable, and safe.**
 
