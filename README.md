@@ -19,7 +19,7 @@
 
 ## 📫 **Connect With Me**
 
-**- LinkedIn:** [www.linkedin.com/in/chirranjeavim](https://www.linkedin.com/in/chirranjeavim) 
+**- LinkedIn:** [www.linkedin.com/in/chirranjeavim](https://www.linkedin.com/in/chirranjeavim)  
 **- Email:** cm6855@nyu.edu  
 **- Portfolio:** [Your Website]  
 
