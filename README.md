@@ -20,6 +20,6 @@
 ## 📫 **Connect With Me**
 
 **- LinkedIn:** linkedin.com/in/chirranjeavim  
-**- Email:** [Your Email]  
+**- Email:** cm6855@nyu.edu  
 **- Portfolio:** [Your Website]  
 
